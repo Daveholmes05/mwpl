@@ -1,0 +1,157 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  font-size: 21px;
+}
+
+ul.nav, .jumbotron h1 {
+	font-family: 'Arvo', comic;
+}
+
+ul.nav {
+	font-size: 13px;
+}
+
+footer {
+	background-color: #e74c3c;
+	padding-top: 150px;
+	padding-bottom: 30px;
+}
+
+#get-involved {
+	background-color: #f5f5f5;
+	
+}
+
+.jumbotron {
+	text-align: center;
+	background-image: url('../images/citylight.jpg');
+	color: rgb(252, 253, 255);
+}
+
+.jumbotron h1 {
+	margin-top: 0px;
+	margin-bottom: 50px;
+}
+
+.textsize {
+	font-size: 30px;
+}
+
+.jumbotron p {
+	margin-bottom: 30px;
+	font-weight: 100;
+	padding: 0 50px;
+
+}
+
+
+
+
+.btn-lg {
+	font-size: 25px;
+}
+
+.emphasis {
+	color:red;
+	font-weight: bolder;
+}
+
+.shadow {
+	text-shadow: 1px 1px black;
+	
+
+}
+
+.homepage {
+	text-align: center;
+	padding: 30px 0px;
+}
+
+.homepage h2, .homepage h3 {
+	color: #e74c3c;
+	font-family: 'Arvo', comic;
+	text-transform: uppercase;
+}
+
+.homepage h2 {
+	font-size: 30px;
+}
+
+.homepage h3 {
+	font-size: 25px;
+}
+
+.homepage a {
+	color: red;
+}
+
+.homepage a:hover {
+	color: #e74c3c;
+	text-decoration: none;
+	opacity: .6;
+}
+
+.homepage hr {
+	border-top: 1px solid #e74c3c;
+	width: 160px;
+	margin-top: 15px;
+}
+
+.MA {
+	margin-top: 25px;
+}
+
+footer img {
+	width: 80%;
+}
+
+/* Responsive Styling */
+
+/* Medium Devices 992px up to 1200px */
+@media (max-width: 1199px) {
+	.jumbotron h1 {
+		font-size: 56px;
+		margin-bottom: 30px;
+	}
+}
+
+/* Large devices 1200px and up */
+@media (max-width: 991px) {
+	.jumbotron h1 {
+		font-size: 44px;
+		margin-bottom: 30px;
+	}
+
+	.jumbotron p {
+		padding: 0 10px;
+	}
+
+	#get-involved .col-md-4 {
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+}
+
+/* Extra Small Devices, phones, less than 768px */
+@media (max-width: 767px) {
+
+	.jumbotron h1 {
+		font-size: 24px;
+	}
+
+	.jumbotron p {
+		font-size: 16px;
+		padding: 0;
+	}
+
+	.btn-lg {
+		font-size: 18px;
+	}
+
+	.homepage p {
+		font-size: 18px;
+	}
+}
+
+
