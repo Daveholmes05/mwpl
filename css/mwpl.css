@@ -27,6 +27,7 @@ footer {
 	text-align: center;
 	background-image: url('../images/mwpl.jpg');
 	color: rgb(252, 253, 255);
+	max-height: 220px;
 }
 
 .jumbotron h1 {
