@@ -13,7 +13,7 @@ ul.nav {
 }
 
 .navbar-brand img{
-	
+
 }
 
 footer {
@@ -34,6 +34,11 @@ footer {
 	background-repeat: no-repeat;
 	color: rgb(252, 253, 255);
 	background-color: black;
+	padding-bottom: 20%;
+}
+
+.jumbotron img {
+	padding: 20%;
 }
 
 .jumbotron h1 {
