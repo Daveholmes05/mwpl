@@ -12,6 +12,11 @@ ul.nav {
 	font-size: 13px;
 }
 
+.navbar-brand img{
+	height: 10%;
+	width: 10%;
+}
+
 footer {
 	background-color: #e74c3c;
 	padding-top: 150px;
