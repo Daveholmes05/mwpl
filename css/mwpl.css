@@ -30,11 +30,10 @@ footer {
 .jumbotron {
 	text-align: center;
 	background-image: url('../images/mwpl.jpg');
-	background-position: center top 89%;
+	background-position: center top 45%;
 	background-repeat: no-repeat;
 	color: rgb(252, 253, 255);
 	background-color: black;
-	padding-bottom: 20%;
 }
 
 div.jumbotron {
