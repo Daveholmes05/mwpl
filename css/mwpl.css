@@ -27,9 +27,14 @@ footer {
 }
 
 div#who {
-		background-color: rgb(76, 73, 73);
+	background-color: rgb(53, 53, 53);
+  	color: white;
 	}
 	
+div#teams {
+	background-color: black;
+	color: white;
+}
 
 
 .jumbotron {
@@ -40,7 +45,7 @@ div#who {
 	color: rgb(252, 253, 255);
 	background-color: black;
 	padding: 13%;
-	margin-bottom: 2px;
+	margin-bottom: 0px;
 }
 
 
