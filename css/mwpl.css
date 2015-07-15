@@ -128,6 +128,11 @@ div#teams {
 	margin-top: 25px;
 }
 
+ul li {
+	list-style-type: none;
+	padding: 25px;
+}
+
 footer img {
 	width: 80%;
 }
