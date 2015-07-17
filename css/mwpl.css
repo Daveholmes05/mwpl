@@ -162,7 +162,7 @@ footer img {
 
 /* Medium Devices 992px up to 1200px */
 @media (max-width: 1199px) {
-	.homepage h1 {
+	.homepage h1, h2 {
 		font-size: 56px;
 		margin-bottom: 30px;
 	}
@@ -170,7 +170,7 @@ footer img {
 
 /* Large devices 1200px and up */
 @media (max-width: 991px) {
-	.homepage h1 {
+	.homepage h1, h2 {
 		font-size: 44px;
 		margin-bottom: 30px;
 	}
@@ -188,7 +188,7 @@ footer img {
 /* Extra Small Devices, phones, less than 768px */
 @media (max-width: 767px) {
 
-	.homepage h1 {
+	.homepage h1, h2 {
 		font-size: 25px;
 	}
 
