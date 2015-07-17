@@ -162,7 +162,7 @@ footer img {
 
 /* Medium Devices 992px up to 1200px */
 @media (max-width: 1199px) {
-	.jumbotron h1 {
+	.homepage h1 {
 		font-size: 56px;
 		margin-bottom: 30px;
 	}
@@ -170,12 +170,12 @@ footer img {
 
 /* Large devices 1200px and up */
 @media (max-width: 991px) {
-	.jumbotron h1 {
-		font-size: 24px;
+	.homepage h1 {
+		font-size: 44px;
 		margin-bottom: 30px;
 	}
 
-	.jumbotron p {
+	.homepage p {
 		padding: 0 10px;
 	}
 
@@ -189,10 +189,10 @@ footer img {
 @media (max-width: 767px) {
 
 	.homepage h1 {
-		font-size: 15px;
+		font-size: 25px;
 	}
 
-	.jumbotron p {
+	.homepage p {
 		font-size: 16px;
 		padding: 0;
 	}
