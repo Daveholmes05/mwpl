@@ -189,7 +189,7 @@ footer img {
 @media (max-width: 767px) {
 
 	.homepage h1, .homepage h2 {
-		font-size: 25px;
+		font-size: 22px;
 	}
 
 	.btn-lg {
@@ -211,6 +211,10 @@ footer img {
 	margin-bottom: 0px;
 	background-size: contain;
 }
+
+	ul {
+		font-size: 12px;
+	}
 }
 
 
