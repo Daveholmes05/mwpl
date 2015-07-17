@@ -188,7 +188,7 @@ footer img {
 /* Extra Small Devices, phones, less than 768px */
 @media (max-width: 767px) {
 
-	.homepage h1, h2 {
+	.homepage h1, .homepage h2 {
 		font-size: 5px;
 	}
 
