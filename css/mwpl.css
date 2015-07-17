@@ -4,16 +4,20 @@ body {
   font-size: 21px;
 }
 
+
 ul.nav, .jumbotron h1 {
-	font-family: 'Arvo', comic;
+	font-family: 'Bangers', comic;
+
 }
 
 ul.nav {
-	font-size: 13px;
+	font-size: 30px;
 }
 
-.navbar-brand img{
-
+.navbar-brand {
+	font-family: 'Bangers', comic;
+	letter-spacing: 1px;
+	font-size: 30px;
 }
 
 footer {
@@ -21,9 +25,6 @@ footer {
 	padding-top: 100px;
 }
 
-h1, h2 {
-	font-family: 'Bangers', serif;
-}
 
 #get-involved {
 	background-color: #f5f5f5;
@@ -47,9 +48,13 @@ div#about, #schedule{
 	width: 30px;
 }
 
+
+
+
 #about h1 {
 	color: rgb(231, 76, 60);
-	font-family: 'Arvo', comic;
+	font-family: 'Bangers', comic;
+	letter-spacing: 1px;
 }
 	
 div#teams {
@@ -101,9 +106,9 @@ div#teams {
 
 .shadow {
 	text-shadow: 1px 1px black;
-	
-
 }
+
+
 
 .homepage {
 	text-align: center;
@@ -117,12 +122,16 @@ div#teams {
 }
 
 .homepage h2 {
+	font-family: 'Rock Salt', comic;
+	letter-spacing: 1px;
+
+}
+
+.homepage h2 {
 	font-size: 30px;
 }
 
-.homepage h3 {
-	font-size: 25px;
-}
+
 
 .homepage a {
 	color: red;
