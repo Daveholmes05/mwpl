@@ -71,7 +71,7 @@ div#teams {
 	background-color: black;
 	padding: 13%;
 	margin-bottom: 0px;
-	background-attachment: local;
+	background-size: contain;
 }
 
 
