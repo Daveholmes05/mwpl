@@ -214,7 +214,7 @@ footer img {
 	background-color: black;
 	padding: 13%;
 	margin-bottom: 0px;
-	
+	background-size: contain;
 }
 }
 
