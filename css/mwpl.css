@@ -171,7 +171,7 @@ footer img {
 /* Large devices 1200px and up */
 @media (max-width: 991px) {
 	.jumbotron h1 {
-		font-size: 44px;
+		font-size: 24px;
 		margin-bottom: 30px;
 	}
 
@@ -188,7 +188,7 @@ footer img {
 /* Extra Small Devices, phones, less than 768px */
 @media (max-width: 767px) {
 
-	.jumbotron h1 {
+	.homepage h1 {
 		font-size: 15px;
 	}
 
