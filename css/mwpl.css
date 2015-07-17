@@ -53,8 +53,7 @@ div#about, #schedule{
 
 #about h1 {
 	color: rgb(231, 76, 60);
-	font-family: 'Bangers', comic;
-	letter-spacing: 1px;
+	font-family: 'Rock Salt', comic;
 }
 	
 div#teams {
@@ -72,6 +71,7 @@ div#teams {
 	background-color: black;
 	padding: 13%;
 	margin-bottom: 0px;
+	background-attachment: local;
 }
 
 
