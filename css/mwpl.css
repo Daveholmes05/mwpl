@@ -62,7 +62,7 @@ div#teams {
 }
 
 
-.jumbotron {
+.jumbotron, #bgi {
 	text-align: center;
 	background-image: url('../images/mwpl.jpg');
 	background-position: center top 45%;
@@ -71,7 +71,8 @@ div#teams {
 	background-color: black;
 	padding: 13%;
 	margin-bottom: 0px;
-	background-attachment: local;
+	width: auto;
+	height: auto;
 }
 
 
