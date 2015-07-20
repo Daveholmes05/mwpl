@@ -165,6 +165,9 @@ div#teams {
   position: fixed;
   bottom: 50px;
   right: 50px;
+}
+
+i.fa-2x {
   color: white;
 }
 
