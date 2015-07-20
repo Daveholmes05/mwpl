@@ -239,8 +239,8 @@ div#teams {
 
 #back-to-top {
   position: fixed;
-  bottom: 25px;
-  right: 25px;
+  bottom: 15px;
+  right: 15px;
 }
 
 
@@ -251,8 +251,8 @@ div#teams {
 
 footer {
 	background-color: #e74c3c;
-	padding-top: 25px;
-	padding-bottom: 10px;
+	padding-top: 15px;
+	padding-bottom: 50px;
 	color: rgb(26, 26, 26);
 	font-weight: bolder;
 	font-size: 10px;
