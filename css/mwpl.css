@@ -237,6 +237,26 @@ div#teams {
 	margin-top: 15px;
 }
 
+#back-to-top {
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+}
+
+#back-to-top a {
+  color: white;
+}
+
+footer {
+	background-color: #e74c3c;
+	padding-top: 50px;
+	padding-bottom: 20px;
+	color: rgb(26, 26, 26);
+	font-weight: bolder;
+	font-size: 40px;
+	font-family: 'Black Ops One', comic;
+
+}
 
 }
 
