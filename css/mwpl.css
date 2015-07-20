@@ -257,7 +257,12 @@ footer {
 	font-weight: bolder;
 	font-size: 10px;
 	font-family: 'Black Ops One', comic;
+	margin: 0px;
 
+}
+
+footer p {
+	margin: 0px;
 }
 
 }
